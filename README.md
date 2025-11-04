@@ -266,17 +266,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Discussions**: [GitHub Discussions](https://github.com/akaTalhakhan/AI_POWERED_RAG_WEBSEARCH/discussions)
 - **Email**: [Contact Developer](taalhakhaan7@gmail.com)
 
-## 🔮 Roadmap
 
-### Upcoming Features
-- [ ] Support for more document formats (Word, Excel, PowerPoint)
-- [ ] Multi-language support
-- [ ] Advanced search filters
-- [ ] Export conversation history
-- [ ] API endpoint for programmatic access
-- [ ] Integration with more AI models
-- [ ] Collaborative knowledge bases
-- [ ] Advanced analytics and insights
+
+
 
 ### Version History
 - **v1.0.0** - Initial release with core RAG functionality
@@ -287,5 +279,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made  by [Talha Khan](https://github.com/akaTalhakhan)**
+
 
 *Transform your documents and web content into an intelligent, searchable knowledge base with the power of AI.*
